@@ -1,4 +1,0 @@
-User-agent: *
-Disallow: /*
-User-agent: ltx71 - (http://ltx71.com/)
-Disallow: /*
